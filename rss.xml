@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Polymath Digital]]></title>
+        <description><![CDATA[Polymath Digital]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 20 Feb 2016 17:41:31 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hello, World]]></title>
+            <description><![CDATA[<article><h1>Hello, World</h1><p>This is the Grid.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dfc9c790-f0e4-4761-b013-1e1e0c969866.jpg"></article>]]></description>
+            <link>undefinedhello-world/index.html</link>
+            <guid isPermaLink="false">04e414ca-c518-4a55-8b09-9c03c996376f</guid>
+            <pubDate>Sat, 20 Feb 2016 17:41:07 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
