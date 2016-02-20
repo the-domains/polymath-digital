@@ -1,7 +1,7 @@
 name: Polymath Digital
 favicon: null
-layout_spectrum: 0.9576364534441382
-typography_spectrum: 0.8806381009053439
+layout_spectrum: 1
+typography_spectrum: 0.39895
 title: Polymath Digital
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.028006168780848384
-  lightness: 0.8873254067730159
-  saturation: 0.8936537960544229
-  rhythmicContrast: 0.8451487917918712
+  brandStrength: 0.5
+  lightness: 0.625
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
