@@ -1,0 +1,28 @@
+name: Polymath Digital
+favicon: null
+layout_spectrum: 0.9576364534441382
+typography_spectrum: 0.8806381009053439
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.028006168780848384
+  lightness: 0.8873254067730159
+  saturation: 0.8936537960544229
+  rhythmicContrast: 0.8451487917918712
+purpose: []
