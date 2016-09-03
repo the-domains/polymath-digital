@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Polymath Digital]]></title>
         <description><![CDATA[Polymath Digital]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://meetpolymath.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Feb 2016 17:41:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 31 Aug 2016 15:42:13 GMT</lastBuildDate>
+        <atom:link href="http://meetpolymath.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Get Free, Royalty-Free Music Every Week - Music for Makers]]></title>
+            <description><![CDATA[<article><h1>Get Free, Royalty-Free Music Every Week - Music for Makers</h1><p>Wondering what you'll get if you join? The music we send will vary week to week in terms of genre, mood, length, and instruments used. (Because, hey, variety is the spice of life!) But to give you an idea of what to expect, here a few of our most popular songs.</p></article>]]></description>
+            <link>https://musicformakers.com/</link>
+            <guid isPermaLink="false">f29e17a3-d3ac-4113-bd83-6d0a1206f7aa</guid>
+            <pubDate>Wed, 31 Aug 2016 15:42:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hello, World]]></title>
-            <description><![CDATA[<article><h1>Hello, World</h1><p>This is the Grid.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dfc9c790-f0e4-4761-b013-1e1e0c969866.jpg"></article>]]></description>
-            <link>undefinedhello-world/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dfc9c790-f0e4-4761-b013-1e1e0c969866.jpg">]]></description>
+            <link>http://meetpolymath.com/hello-world/index.html</link>
             <guid isPermaLink="false">04e414ca-c518-4a55-8b09-9c03c996376f</guid>
             <pubDate>Sat, 20 Feb 2016 17:41:07 GMT</pubDate>
         </item>
